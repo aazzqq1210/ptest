@@ -1,2 +1,2 @@
 # ptest
-Use from python Linebot
+測試git用
